@@ -2,6 +2,8 @@
 
 CMPT 276 D100 Fall 2021: Group 19 Project
 
+Maze of the Dead Game Demo:
+
 [![Maze of the Dead Game Demo](https://img.youtube.com/vi/yl-LIVkOmPw/0.jpg)](https://www.youtube.com/watch?v=yl-LIVkOmPw&ab_channel=KaungSithu)
 
 ## Table of Contents
